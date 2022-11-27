@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>                                              
+<usms>                                                                                              
+  <usm nom="simulate">                                                                                  
+    <datedebut>345</datedebut>                                                                      
+    <datefin>720</datefin>                                                                          
+    <finit>simulate_ini.xml</finit>                                                                    
+    <nomsol>simulate</nomsol>                                                                         
+    <fstation>simulate_sta.xml</fstation>                                                           
+    <fclim1>Porec.1981</fclim1>                                                                  
+    <fclim2>Porec.2020</fclim2>                                                                  
+    <culturean>2</culturean>                                                                        
+    <nbplantes>1</nbplantes>                                                                        
+    <codesimul>0</codesimul>                                                                        
+    <plante dominance="1">                                                                          
+      <fplt>Porec_chardonnay_simulate_plt.xml</fplt>                                                              
+      <ftec>simulate_tec.xml</ftec>                                                                    
+      <flai>foo</flai>
+    </plante>                                                                                       
+  </usm>                                                                                            
+</usms>
