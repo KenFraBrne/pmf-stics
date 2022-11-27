@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>                                              
 <usms>
   <usm nom="merlot">
-    <datedebut>345</datedebut>                                                                      
-    <datefin>720</datefin>                                                                          
+    <datedebut>345</datedebut>
+    <datefin>720</datefin>
     <finit>merlot_ini.xml</finit>                                                                    
     <nomsol>merlot</nomsol>                                                                         
     <fstation>Porec_sta.xml</fstation>                                                           
-    <fclim1>Porec.2008</fclim1>                                                                  
+    <fclim1>Porec.2007</fclim1>                                                                  
     <fclim2>Porec.2020</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        
@@ -23,7 +23,7 @@
     <finit>chardonnay_ini.xml</finit>                                                                    
     <nomsol>chardonnay</nomsol>                                                                         
     <fstation>Porec_sta.xml</fstation>                                                           
-    <fclim1>Porec.2008</fclim1>                                                                  
+    <fclim1>Porec.2007</fclim1>                                                                  
     <fclim2>Porec.2020</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        

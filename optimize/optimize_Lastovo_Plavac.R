@@ -10,7 +10,7 @@ library("SticsRPacks")
 pwd <- Sys.getenv("PWD")
 java_path <- paste(pwd, '/../jdk8u332-b09-jre/bin/java', sep="")
 javastics_path <- paste(pwd, '/../simulate', sep="")
-workspace_path <- "Porec_merlot"
+workspace_path <- "Lastovo"
 
 # txt inputs
 res <- gen_usms_xml2txt(
@@ -29,10 +29,11 @@ model_options <- stics_wrapper_options(
 )
 
 # observations
-sit_name <- "simulate"
+sit_name <- "Plavac"
 var_name <- c("ilevs", "iflos", "irecs")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
+obs_list$Plavac <- obs_list$Plavac[-c(1,2,3),]
 
 # parameters
 param_info <- list(
@@ -65,7 +66,7 @@ param_info <- list(
 # optimization
 optim_options <- list()
 optim_options$nb_rep <- 1
-optim_options$maxeval <- 10
+optim_options$maxeval <- 1
 optim_options$xtol_rel <- 1e-03
 optim_options$out_dir <- file.path(javastics_path, workspace_path, sit_name, "optimized")
 optim_options$ranseed <- 1234

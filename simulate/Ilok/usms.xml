@@ -6,7 +6,7 @@
     <finit>chardonnay_ini.xml</finit>                                                                    
     <nomsol>chardonnay</nomsol>                                                                         
     <fstation>Ilok_sta.xml</fstation>                                                           
-    <fclim1>Ilok.2003</fclim1>                                                                  
+    <fclim1>Ilok.2002</fclim1>                                                                  
     <fclim2>Ilok.2020</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        

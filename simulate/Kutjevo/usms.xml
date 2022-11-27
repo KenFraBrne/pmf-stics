@@ -6,7 +6,7 @@
     <finit>chardonnay_ini.xml</finit>                                                                    
     <nomsol>chardonnay</nomsol>                                                                         
     <fstation>Kutjevo_sta.xml</fstation>                                                           
-    <fclim1>Kutjevo.2010</fclim1>                                                                  
+    <fclim1>Kutjevo.2009</fclim1>                                                                  
     <fclim2>Kutjevo.2020</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        
@@ -23,7 +23,7 @@
     <finit>graševina_ini.xml</finit>                                                                    
     <nomsol>graševina</nomsol>                                                                         
     <fstation>Kutjevo_sta.xml</fstation>                                                           
-    <fclim1>Kutjevo.2010</fclim1>                                                                  
+    <fclim1>Kutjevo.2009</fclim1>                                                                  
     <fclim2>Kutjevo.2020</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        

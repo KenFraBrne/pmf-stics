@@ -6,7 +6,7 @@
     <finit>chardonnay_ini.xml</finit>                                                                    
     <nomsol>chardonnay</nomsol>                                                                         
     <fstation>Daruvar_sta.xml</fstation>                                                           
-    <fclim1>Daruvar.2001</fclim1>                                                                  
+    <fclim1>Daruvar.2000</fclim1>                                                                  
     <fclim2>Daruvar.2020</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        
@@ -23,7 +23,7 @@
     <finit>graševina_ini.xml</finit>                                                                    
     <nomsol>graševina</nomsol>                                                                         
     <fstation>Daruvar_sta.xml</fstation>                                                           
-    <fclim1>Daruvar.2001</fclim1>                                                                  
+    <fclim1>Daruvar.2000</fclim1>                                                                  
     <fclim2>Daruvar.2020</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        

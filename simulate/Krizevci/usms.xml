@@ -6,7 +6,7 @@
     <finit>graševina_ini.xml</finit>                                                                    
     <nomsol>graševina</nomsol>                                                                         
     <fstation>Krizevci_sta.xml</fstation>                                                           
-    <fclim1>Krizevci.2001</fclim1>                                                                  
+    <fclim1>Krizevci.2000</fclim1>                                                                  
     <fclim2>Krizevci.2018</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        

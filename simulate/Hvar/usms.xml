@@ -6,7 +6,7 @@
     <finit>Plavac_ini.xml</finit>                                                                    
     <nomsol>Plavac</nomsol>                                                                         
     <fstation>Hvar_sta.xml</fstation>                                                           
-    <fclim1>Hvar.1962</fclim1>                                                                  
+    <fclim1>Hvar.1961</fclim1>                                                                  
     <fclim2>Hvar.2016</fclim2>                                                                  
     <culturean>2</culturean>                                                                        
     <nbplantes>1</nbplantes>                                                                        
