@@ -1,0 +1,5 @@
+Informations about Stics model build version
+Build date : 2021-01-21 (08:20:51)
+Version : 9.2_r2773
+Version date : 2021-01-21
+OS name : Mac OS

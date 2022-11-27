@@ -1,0 +1,5 @@
+Informations about Stics model utilities build version
+Build date: 2020/10/09 (14:02:44)
+Stics version : v_test
+Version date : 2020/10/09
+OS name : Mac OS

@@ -1,0 +1,5 @@
+Informations about Stics model build version
+Build date : 2021-01-19 (00:01:20)
+Version : 9.2_r2773
+Version date : 2021-01-19
+OS name : Linux
