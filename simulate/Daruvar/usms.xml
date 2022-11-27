@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>                                              
+<usms>                                                                                              
+  <usm nom="chardonnay">                                                                                  
+    <datedebut>345</datedebut>                                                                      
+    <datefin>720</datefin>                                                                          
+    <finit>chardonnay_ini.xml</finit>                                                                    
+    <nomsol>chardonnay</nomsol>                                                                         
+    <fstation>Daruvar_sta.xml</fstation>                                                           
+    <fclim1>Daruvar.2001</fclim1>                                                                  
+    <fclim2>Daruvar.2020</fclim2>                                                                  
+    <culturean>2</culturean>                                                                        
+    <nbplantes>1</nbplantes>                                                                        
+    <codesimul>0</codesimul>                                                                        
+    <plante dominance="1">                                                                          
+      <fplt>chardonnay_plt.xml</fplt>                                                              
+      <ftec>chardonnay_tec.xml</ftec>                                                                    
+      <flai>foo</flai>
+    </plante>                                                                                       
+  </usm>                                                                                            
+  <usm nom="graševina">                                                                                  
+    <datedebut>345</datedebut>                                                                      
+    <datefin>720</datefin>                                                                          
+    <finit>graševina_ini.xml</finit>                                                                    
+    <nomsol>graševina</nomsol>                                                                         
+    <fstation>Daruvar_sta.xml</fstation>                                                           
+    <fclim1>Daruvar.2001</fclim1>                                                                  
+    <fclim2>Daruvar.2020</fclim2>                                                                  
+    <culturean>2</culturean>                                                                        
+    <nbplantes>1</nbplantes>                                                                        
+    <codesimul>0</codesimul>                                                                        
+    <plante dominance="1">                                                                          
+      <fplt>graševina_plt.xml</fplt>                                                              
+      <ftec>graševina_tec.xml</ftec>                                                                    
+      <flai>foo</flai>
+    </plante>                                                                                       
+  </usm>                                                                                            
+</usms>
