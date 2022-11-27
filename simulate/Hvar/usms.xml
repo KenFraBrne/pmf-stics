@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>                                              
+<usms>                                                                                              
+  <usm nom="Plavac">                                                                                  
+    <datedebut>345</datedebut>                                                                      
+    <datefin>720</datefin>                                                                          
+    <finit>Plavac_ini.xml</finit>                                                                    
+    <nomsol>Plavac</nomsol>                                                                         
+    <fstation>Hvar_sta.xml</fstation>                                                           
+    <fclim1>Hvar.1962</fclim1>                                                                  
+    <fclim2>Hvar.2016</fclim2>                                                                  
+    <culturean>2</culturean>                                                                        
+    <nbplantes>1</nbplantes>                                                                        
+    <codesimul>0</codesimul>                                                                        
+    <plante dominance="1">                                                                          
+      <fplt>Plavac_plt.xml</fplt>                                                              
+      <ftec>Plavac_tec.xml</ftec>                                                                    
+      <flai>foo</flai>
+    </plante>                                                                                       
+  </usm>                                                                                            
+</usms>
