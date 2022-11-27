@@ -41,19 +41,16 @@ def generate_climate(file):
     df_stics[11] = 10*e0((df.Tmin+df.Tmax)/2)*df.RH/100
     df_stics[12] = 320 + (420-320)*(df.Year-1960)/(2020-1960)
 
-    # find simulate dirs for the city
-    path = 'simulate/%s_*/' % city
-    paths = glob.glob(path)
-    if len(paths) == 0:
-        return
+    # make city folder
+    path = 'simulate/%s/' % city
+    os.makedirs(path, exist_ok=True)
 
     # print per year
-    for path in paths:
-        years = df_stics.iloc[:,1]
-        for year in years:
-            file = path + '%s.%i' % ( city, year )
-            ind = years == year
-            df_stics[ind].to_csv(file, sep=' ', header=False, index=False)
+    years = df_stics.iloc[:,1]
+    for year in years:
+        file = path + '%s.%i' % ( city, year )
+        ind = years == year
+        df_stics[ind].to_csv(file, sep=' ', header=False, index=False)
 
 if __name__ == '__main__':
 
@@ -61,6 +58,7 @@ if __name__ == '__main__':
     path = 'data/climate/'
     files = os.listdir(path)
     files = [ path + file for file in files ]
+    files.sort()
 
     # generate
     for file in files:

@@ -70,12 +70,9 @@ def generate_obs(file):
         'jul': 'int32',
     })
 
-    # mkdir
-    site = re.findall('\/\D{1,20}_TOT', file)[0][1:-4]
-    os.makedirs('simulate/%s' % site, exist_ok=True)
-
     # print
-    path = 'simulate/%s/%s.obs' % (site, site)
+    city, usm = re.findall('[a-zA-Z]{1,}_[a-zA-Zš]{1,}_TOT', file)[0][:-4].split('_')
+    path = 'simulate/%s/%s.obs' % (city, usm)
     df_years.to_csv(path, sep=';', index=False)
 
 if __name__ == '__main__':
