@@ -72,11 +72,13 @@ def generate_obs(file):
 
     # print
     city, usm = re.findall('[a-zA-Z]{1,}_[a-zA-Zš]{1,}_TOT', file)[0][:-4].split('_')
-    path = 'simulate/%s/%s.obs' % (city, usm)
+    usm = unidecode.unidecode(usm)
+    workspace = 'simulate/%s' % usm
+    os.makedirs(workspace, exist_ok=True)
+    path = workspace + '/%s.obs' % city
     df_years.to_csv(path, sep=';', index=False)
 
-if __name__ == '__main__':
-
+def main():
     # files
     path = 'data/phenology'
     files = os.listdir(path)
@@ -86,3 +88,6 @@ if __name__ == '__main__':
     # generate
     for file in files:
         generate_obs(file)
+
+if __name__ == '__main__':
+    main()
