@@ -11,7 +11,7 @@ library("CroptimizR")
 # paths
 pwd <- Sys.getenv("PWD")
 javastics_path <- paste(pwd, '/../simulate', sep="")
-workspace_path <- "grasevina"
+workspace_path <- "merlot"
 
 # txt inputs
 res <- gen_usms_xml2txt(
@@ -30,7 +30,7 @@ model_options <- stics_wrapper_options(
 )
 
 # observations
-sit_name <- c("Daruvar", "Kutjevo", "Krizevci")
+sit_name <- c("Porec", "Zadar")
 var_name <- c("ilevs", "iflos", "irecs")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
