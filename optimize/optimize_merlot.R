@@ -30,8 +30,8 @@ model_options <- stics_wrapper_options(
 )
 
 # observations
-sit_name <- c("Porec", "Zadar")
-var_name <- c("ilevs", "iflos", "irecs")
+sit_name <- c("Agrolaguna", "Belje", "Blato", "Kutjevo", "Porec", "Zadar")
+var_name <- c("ilevs", "iflos", "irecs", "H2Orec_percent")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
 
@@ -39,41 +39,45 @@ obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
 param_info <- list(
   lb = c(
     stdordebour = 5000,
-    stdrpnou = 10,
-    deshydbase = 0.0005,
-    stamflax = 100,
+    stdrpnou = 45,
+    stamflax = 500,
     stlevdrp = 100,
     stflodrp = 10,
-    stdrpdes = 10,
-    jvc = 10,
+    stdrpdes = 40,
+    jvc = 50,
     afruitpot = 1,
-    dureefruit = 500
+    dureefruit = 500,
+    h2ograinmax = 0.5,
+    deshydbase = 0.0005
   ),
   ub = c(
     stdordebour = 15000,
     stdrpnou = 200,
-    deshydbase = 0.005,
-    stamflax = 3000,
-    stlevdrp = 1000,
-    stflodrp = 300,
-    stdrpdes = 300,
+    stamflax = 2000,
+    stlevdrp = 700,
+    stflodrp = 100,
+    stdrpdes = 200,
     jvc = 200,
     afruitpot = 5,
-    dureefruit = 3000
+    dureefruit = 3000,
+    h2ograinmax = 1.0,
+    deshydbase = 0.0030
   )
 )
 
 # optimization
 optim_options <- list()
-optim_options$nb_rep <- 100
-optim_options$maxeval <- 1000
+optim_options$iterations <- 5
+optim_options$start_value <- 3
 optim_options$xtol_rel <- 1e-03
 optim_options$out_dir <- file.path(javastics_path, workspace_path, "optimized")
 optim_options$ranseed <- 1234
 res <- estim_param(
   obs_list = obs_list,
+  crit_function = likelihood_log_ciidn,
   model_function = stics_wrapper,
   model_options = model_options,
   optim_options = optim_options,
+  optim_method = "BayesianTools.dreamzs",
   param_info = param_info,
 )

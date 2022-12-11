@@ -6,8 +6,25 @@
         <finit>vigne_ini.xml</finit>
         <nomsol>solvigne</nomsol>
         <fstation>Daruvar_sta.xml</fstation>
-        <fclim1>Daruvar.2000</fclim1>
-        <fclim2>Daruvar.2020</fclim2>
+        <fclim1>Daruvar.2004</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
         <culturean>2</culturean>
         <nbplantes>1</nbplantes>
         <codesimul>0</codesimul>
@@ -23,7 +40,7 @@
         <finit>vigne_ini.xml</finit>
         <nomsol>solvigne</nomsol>
         <fstation>Krizevci_sta.xml</fstation>
-        <fclim1>Krizevci.2000</fclim1>
+        <fclim1>Krizevci.2004</fclim1>
         <fclim2>Krizevci.2018</fclim2>
         <culturean>2</culturean>
         <nbplantes>1</nbplantes>
