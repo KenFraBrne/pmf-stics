@@ -30,7 +30,7 @@ model_options <- stics_wrapper_options(
 )
 
 # observations
-sit_name <- c("Daruvar", "Ilok", "Kutjevo")
+sit_name <- c("Daruvar", "Ilok", "Kutjevo", "Porec")
 var_name <- c("ilevs", "iflos", "irecs")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
@@ -77,11 +77,3 @@ res <- estim_param(
   optim_options = optim_options,
   param_info = param_info,
 )
-res
-
-# simulate
-sim_after_optim <- stics_wrapper(
-  param_values = res$final_values,
-  model_options = model_options,
-)
-sim_after_optim

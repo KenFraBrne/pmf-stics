@@ -34,6 +34,10 @@ sit_name <- c("Hvar", "Lastovo")
 var_name <- c("ilevs", "iflos", "irecs")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
+<<<<<<< HEAD
+=======
+obs_list$Lastovo <- obs_list$Lastovo[4:171,]
+>>>>>>> a03d61ecc4e8f3ecb8d829a09b18c8636531045a
 
 # parameters
 param_info <- list(
@@ -77,11 +81,3 @@ res <- estim_param(
   optim_options = optim_options,
   param_info = param_info,
 )
-res
-
-# simulate
-sim_after_optim <- stics_wrapper(
-  param_values = res$final_values,
-  model_options = model_options,
-)
-sim_after_optim

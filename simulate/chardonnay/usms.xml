@@ -23,8 +23,8 @@
         <finit>vigne_ini.xml</finit>
         <nomsol>solvigne</nomsol>
         <fstation>Ilok_sta.xml</fstation>
-        <fclim1>Ilok.2002</fclim1>
-        <fclim2>Ilok.2018</fclim2>
+        <fclim1>Ilok.2001</fclim1>
+        <fclim2>Ilok.2020</fclim2>
         <culturean>2</culturean>
         <nbplantes>1</nbplantes>
         <codesimul>0</codesimul>
@@ -57,7 +57,7 @@
         <finit>vigne_ini.xml</finit>
         <nomsol>solvigne</nomsol>
         <fstation>Porec_sta.xml</fstation>
-        <fclim1>Porec.2009</fclim1>
+        <fclim1>Porec.2007</fclim1>
         <fclim2>Porec.2020</fclim2>
         <culturean>2</culturean>
         <nbplantes>1</nbplantes>
