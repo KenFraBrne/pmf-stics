@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>                                              
 <usms>                                                                                              
+    <usm nom="Belje">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Osijek_sta.xml</fstation>
+        <fclim1>Belje.1999</fclim1>
+        <fclim2>Belje.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
     <usm nom="Daruvar">
         <datedebut>345</datedebut>
         <datefin>730</datefin>
         <finit>vigne_ini.xml</finit>
         <nomsol>solvigne</nomsol>
         <fstation>Daruvar_sta.xml</fstation>
-        <fclim1>Daruvar.2000</fclim1>
-        <fclim2>Daruvar.2020</fclim2>
+        <fclim1>Daruvar.2004</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
         <culturean>2</culturean>
         <nbplantes>1</nbplantes>
         <codesimul>0</codesimul>
@@ -23,7 +40,7 @@
         <finit>vigne_ini.xml</finit>
         <nomsol>solvigne</nomsol>
         <fstation>Ilok_sta.xml</fstation>
-        <fclim1>Ilok.2001</fclim1>
+        <fclim1>Ilok.2004</fclim1>
         <fclim2>Ilok.2020</fclim2>
         <culturean>2</culturean>
         <nbplantes>1</nbplantes>

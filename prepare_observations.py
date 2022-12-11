@@ -16,8 +16,13 @@ def generate_obs(file):
     df = df.iloc[:,1:]
 
     # change headers
-    mapper = lambda header: str.lower(unidecode.unidecode(header))
+    mapper = lambda header: str.lower(unidecode.unidecode(header)).replace('...oe.','')
     df = df.rename(mapper, axis='columns')
+
+    # if 'secer' range (or object) average it
+    if 'secer' in df.dtypes.index.values:
+        if df.dtypes.loc['secer'] == 'object':
+            df['secer'] = [ np.mean(list(map(int, string.split('-')))) for string in df['secer'] ]
 
     # choose columns
     columns = {
@@ -25,50 +30,64 @@ def generate_obs(file):
         'pupanje_doy': 'ilevs',
         'cvatnja_doy': 'iflos',
         'berba_doy': 'irecs',
+        'secer': 'H2Orec_percent' # ali Oechsle
     }
 
-    # if data not complete - exit
-    keys = columns.keys()
-    is_complete = [ key in df.columns for key in keys ]
-    if not all(is_complete):
-        # print('data not complete in %s' % file)
-        return
-
-    # rename
-    df = df[list(columns.keys())]
+    # column intersection
+    intersect = [ x for x in columns.keys() if x in df.columns ]
+    df = df[intersect]
     df = df.rename(columns=columns)
-    df = df.set_index('year')
 
-    # create obs dfs
-    df_years = pd.DataFrame()
-    for year, row in df.iterrows():
-        datetime = np.datetime64('%i-01-01' % year)
-        columns = ['ian', 'mo', 'jo', 'jul'] + list(df.columns)
-        df_year = pd.DataFrame(columns=columns)
-        for var in row.index:
-            doy = row[var].astype(int)
-            datetime_pheno = datetime + np.timedelta64(doy, 'D')
-            if np.isnat(datetime_pheno) == False:
-                dyear = datetime_pheno.astype(object).year
-                dmonth = datetime_pheno.astype(object).month
-                dday = datetime_pheno.astype(object).day
-                data = {
-                    'ian': dyear,
-                    'mo': dmonth,
-                    'jo': dday,
-                    'jul': doy,
-                    var: doy+365,
-                }
-                df_year = df_year.append(data, ignore_index=True)
-        df_year = df_year.ffill()
-        df_year = df_year.fillna(-999.99)
-        df_years = df_years.append(df_year, ignore_index=True)
-    df_years = df_years.astype({
-        'ian': 'int32',
-        'mo': 'int32',
-        'jo': 'int32',
-        'jul': 'int32',
-    })
+    # add nans for missing columns
+    for column in columns.values():
+        if column not in df.columns:
+            df[column] = np.NaN
+    df = df[columns.values()]
+
+    # change Oechsle() to H2O in percent
+    # - sg = 1 + Oe/1000
+    # - Be = 145 * ( 1 - 1/sg )
+    # - Br = 1.905*Be - 1.6 ( Ball, 2006 )
+    # - WC = -0.82 * Br + 94.40 ( Garcia de Cortazar, 2009 )
+    if 'secer' in intersect:
+        Oe = df['H2Orec_percent']
+        sg = 1+Oe/1000
+        Be = 145*(1-1/sg)
+        Br = 1.905*Be-1.6
+        WC = -0.82*Br+94.40
+        df['H2Orec_percent'] = WC
+
+    # dropna
+    ind = df.irecs.isna()
+    df = df[~ind]
+
+    # df to obs
+    ian = df['year']
+    irecs = df['irecs']
+    datetimes = [ np.datetime64('%i-01-01' % year) + np.timedelta64(int(doy), 'D') for year, doy in zip(ian,irecs)]
+    mo = [ datetime.astype(object).month for datetime in datetimes ]
+    jo = [ datetime.astype(object).day for datetime in datetimes ]
+    jul = irecs
+    df.insert(0, 'jul', jul)
+    df.insert(0, 'jo', jo)
+    df.insert(0, 'mo', mo)
+    df.insert(0, 'ian', ian)
+
+    # dates + 365
+    df['ilevs']+=365
+    df['iflos']+=365
+    df['irecs']+=365
+
+    # remove year
+    df = df.drop('year', axis=1)
+
+    # fillna
+    df = df.fillna(-999)
+
+    # astype(int)
+    for column in ['jul', 'ilevs', 'iflos', 'irecs']:
+        if column in df.columns:
+            df[column] = df[column].astype(int)
 
     # print
     city, usm = re.findall('[a-zA-Z]{1,}_[a-zA-Zš]{1,}_TOT', file)[0][:-4].split('_')
@@ -76,7 +95,7 @@ def generate_obs(file):
     workspace = 'simulate/%s' % usm
     os.makedirs(workspace, exist_ok=True)
     path = workspace + '/%s.obs' % city
-    df_years.to_csv(path, sep=';', index=False)
+    df.to_csv(path, sep=';', index=False)
 
 def main():
     # files
