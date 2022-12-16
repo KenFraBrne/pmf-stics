@@ -23,7 +23,7 @@
         <finit>vigne_ini.xml</finit>
         <nomsol>solvigne</nomsol>
         <fstation>Daruvar_sta.xml</fstation>
-        <fclim1>Daruvar.2004</fclim1>
+        <fclim1>Daruvar.2000</fclim1>
         <fclim2>Daruvar.2018</fclim2>
         <culturean>2</culturean>
         <nbplantes>1</nbplantes>
@@ -40,7 +40,7 @@
         <finit>vigne_ini.xml</finit>
         <nomsol>solvigne</nomsol>
         <fstation>Ilok_sta.xml</fstation>
-        <fclim1>Ilok.2004</fclim1>
+        <fclim1>Ilok.2002</fclim1>
         <fclim2>Ilok.2020</fclim2>
         <culturean>2</culturean>
         <nbplantes>1</nbplantes>

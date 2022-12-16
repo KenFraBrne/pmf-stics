@@ -7,6 +7,8 @@
 library("SticsOnR")
 library("SticsRFiles")
 library("CroptimizR")
+library("CroPlotR")
+
 
 # paths
 pwd <- Sys.getenv("PWD")
@@ -67,10 +69,9 @@ param_info <- list(
 
 # optimization
 optim_options <- list()
-optim_options$iterations <- 5
-optim_options$start_value <- 3
-optim_options$xtol_rel <- 1e-03
-optim_options$out_dir <- file.path(javastics_path, workspace_path, "optimized")
+optim_options$iterations <- 10000
+optim_options$startValue <- 3
+optim_options$out_dir <- file.path(pwd, "optimized", workspace_path)
 optim_options$ranseed <- 1234
 res <- estim_param(
   obs_list = obs_list,
@@ -81,3 +82,4 @@ res <- estim_param(
   optim_method = "BayesianTools.dreamzs",
   param_info = param_info,
 )
+res
