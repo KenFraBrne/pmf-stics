@@ -86,7 +86,7 @@
             </choix>
             <choix code="2" nom="no"/>
         </option>
-        <param format="integer" max="999" min="1" nom="irecbutoir">640</param>
+        <param format="integer" max="999" min="1" nom="irecbutoir">700</param>
     </formalisme>
     <formalisme nom="irrigation">
         <param format="real" max="1.0" min="0.2" nom="effirr">1.00000</param>
@@ -157,7 +157,7 @@
                 </option>
             </choix>
         </option>
-        <option choix="2" nom="harvest decision" nomParam="codrecolte">
+        <option choix="1" nom="harvest decision" nomParam="codrecolte">
             <choix code="1" nom="physiological maturity"/>
             <choix code="2" nom="water content">
                 <option choix="2" nom="minimum.or.maximum" nomParam="codeaumin">

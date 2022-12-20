@@ -9,7 +9,6 @@ library("SticsRFiles")
 library("CroptimizR")
 library("CroPlotR")
 
-
 # paths
 pwd <- Sys.getenv("PWD")
 javastics_path <- paste(pwd, '/../simulate', sep="")
@@ -32,8 +31,8 @@ model_options <- stics_wrapper_options(
 )
 
 # observations
-sit_name <- c("Daruvar", "Ilok", "Kutjevo", "Krizevci")
-var_name <- c("ilevs", "iflos", "ilaxs", "irecs")#, "H2Orec_percent")
+sit_name <- c("Daruvar")#, "Ilok", "Kutjevo", "Krizevci")
+var_name <- c("ilevs", "iflos", "ilaxs", "irecs", "H2Orec_percent")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
 
@@ -55,8 +54,7 @@ param_info <- list(
     dureefruit = 1000,
     stdrpnou = 70,
     stdrpdes = 80,
-    deshydbase = 0.001,
-    h2ograinmax = 0.5
+    deshydbase = 0.001
   ),
   ub = c(
     tdmin = 15,
@@ -74,18 +72,17 @@ param_info <- list(
     dureefruit = 1600,
     stdrpnou = 110,
     stdrpdes = 110,
-    deshydbase = 0.002,
-    h2ograinmax = 1.0
+    deshydbase = 0.002
   )
 )
 
 # optimization
 optim_options <- list()
 optim_options$iterations <- 10000
-optim_options$startValue <- 3
+optim_options$startValue <- 5
 optim_options$out_dir <- file.path(pwd, "optimized", workspace_path)
 optim_options$ranseed <- 1234
-res <- estim_param(
+estim_param(
   obs_list = obs_list,
   crit_function = likelihood_log_ciidn,
   model_function = stics_wrapper,
