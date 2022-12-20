@@ -33,39 +33,50 @@ model_options <- stics_wrapper_options(
 
 # observations
 sit_name <- c("Agrolaguna", "Belje", "Blato", "Kutjevo", "Porec", "Zadar")
-var_name <- c("ilevs", "iflos", "irecs", "H2Orec_percent")
+var_name <- c("ilevs", "iflos", "ilaxs", "irecs", "H2Orec_percent")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
-
 obs_list$Kutjevo <- obs_list$Kutjevo[9:23,]
 
 # parameters
 param_info <- list(
   lb = c(
-    stdordebour = 5000,
-    stdrpnou = 45,
-    stamflax = 500,
-    stlevdrp = 100,
-    stflodrp = 10,
-    stdrpdes = 40,
-    jvc = 50,
-    afruitpot = 1,
-    dureefruit = 500,
-    h2ograinmax = 0.5,
-    deshydbase = 0.0005
+    tdmin = 5,
+    tdmax = 32,
+    stlevamf = 15,
+    stamflax = 800,
+    stlevdrp = 250,
+    stflodrp = 30,
+    stdordebour = 6000,
+    tdmindeb = 0,
+    tdmaxdeb = 20,
+    q10 = 1,
+    idebdorm = 150,
+    jvc = 80,
+    dureefruit = 1000,
+    stdrpnou = 70,
+    stdrpdes = 80,
+    deshydbase = 0.001,
+    h2ograinmax = 0.5
   ),
   ub = c(
-    stdordebour = 15000,
-    stdrpnou = 200,
-    stamflax = 2000,
-    stlevdrp = 700,
-    stflodrp = 100,
-    stdrpdes = 200,
-    jvc = 200,
-    afruitpot = 5,
-    dureefruit = 3000,
-    h2ograinmax = 1.0,
-    deshydbase = 0.0030
+    tdmin = 15,
+    tdmax = 42,
+    stlevamf = 30,
+    stamflax = 1300,
+    stlevdrp = 450,
+    stflodrp = 70,
+    stdordebour = 10000,
+    tdmindeb = 10,
+    tdmaxdeb = 30,
+    q10 = 3,
+    idebdorm = 250,
+    jvc = 120,
+    dureefruit = 1600,
+    stdrpnou = 110,
+    stdrpdes = 110,
+    deshydbase = 0.002,
+    h2ograinmax = 1.0
   )
 )
 
@@ -84,4 +95,3 @@ res <- estim_param(
   optim_method = "BayesianTools.dreamzs",
   param_info = param_info,
 )
-res

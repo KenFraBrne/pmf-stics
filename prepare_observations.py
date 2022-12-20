@@ -29,6 +29,7 @@ def generate_obs(file):
         'berba': 'year',
         'pupanje_doy': 'ilevs',
         'cvatnja_doy': 'iflos',
+        'sara_doy': 'ilaxs',
         'berba_doy': 'irecs',
         'secer': 'H2Orec_percent' # ali Oechsle
     }
@@ -37,12 +38,6 @@ def generate_obs(file):
     intersect = [ x for x in columns.keys() if x in df.columns ]
     df = df[intersect]
     df = df.rename(columns=columns)
-
-    # add nans for missing columns
-    for column in columns.values():
-        if column not in df.columns:
-            df[column] = np.NaN
-    df = df[columns.values()]
 
     # change Oechsle() to H2O in percent
     # - sg = 1 + Oe/1000
@@ -74,9 +69,9 @@ def generate_obs(file):
     df.insert(0, 'ian', ian)
 
     # dates + 365
-    df['ilevs']+=365
-    df['iflos']+=365
-    df['irecs']+=365
+    for column in df.columns:
+        if column in ['ilevs', 'iflos', 'ilaxs', 'irecs']:
+            df[column]+=365
 
     # remove year
     df = df.drop('year', axis=1)
@@ -85,7 +80,7 @@ def generate_obs(file):
     df = df.fillna(-999)
 
     # astype(int)
-    for column in ['jul', 'ilevs', 'iflos', 'irecs']:
+    for column in ['jul', 'ilevs', 'iflos', 'ilaxs', 'irecs']:
         if column in df.columns:
             df[column] = df[column].astype(int)
 

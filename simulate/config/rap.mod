@@ -5,6 +5,7 @@
 rec
 ilevs
 iflos
+ilaxs
 irecs
 sucre
 sucre_percent
