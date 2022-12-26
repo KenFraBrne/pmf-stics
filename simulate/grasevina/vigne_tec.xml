@@ -157,7 +157,7 @@
                 </option>
             </choix>
         </option>
-        <option choix="1" nom="harvest decision" nomParam="codrecolte">
+        <option choix="2" nom="harvest decision" nomParam="codrecolte">
             <choix code="1" nom="physiological maturity"/>
             <choix code="2" nom="water content">
                 <option choix="2" nom="minimum.or.maximum" nomParam="codeaumin">

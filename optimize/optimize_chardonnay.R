@@ -54,7 +54,8 @@ param_info <- list(
     dureefruit = 1000,
     stdrpnou = 70,
     stdrpdes = 80,
-    deshydbase = 0.001
+    deshydbase = 0.001,
+    h2ograinmax = 0.5
   ),
   ub = c(
     tdmin = 15,
@@ -72,14 +73,15 @@ param_info <- list(
     dureefruit = 1600,
     stdrpnou = 110,
     stdrpdes = 110,
-    deshydbase = 0.002
+    deshydbase = 0.002,
+    h2ograinmax = 1.0
   )
 )
 
 # optimization
 optim_options <- list()
 optim_options$iterations <- 10000
-optim_options$startValue <- 5
+optim_options$startValue <- 3
 optim_options$out_dir <- file.path(pwd, "optimized", workspace_path)
 optim_options$ranseed <- 1234
 estim_param(
