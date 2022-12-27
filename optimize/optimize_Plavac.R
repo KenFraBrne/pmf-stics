@@ -52,11 +52,9 @@ param_info <- list(
     q10 = 1,
     idebdorm = 150,
     jvc = 80,
-    dureefruit = 1000,
-    stdrpnou = 70,
     stdrpdes = 80,
     deshydbase = 0.001,
-    h2ograinmax = 0.5
+    h2ograinmax = 0.70
   ),
   ub = c(
     tdmin = 15,
@@ -71,20 +69,18 @@ param_info <- list(
     q10 = 3,
     idebdorm = 250,
     jvc = 120,
-    dureefruit = 1600,
-    stdrpnou = 110,
     stdrpdes = 110,
     deshydbase = 0.002,
-    h2ograinmax = 1.0
+    h2ograinmax = 0.85
   )
 )
 
 # optimization
 optim_options <- list()
 optim_options$iterations <- 10000
-optim_options$startValue <- 3
+optim_options$startValue <- 1
 optim_options$out_dir <- file.path(pwd, "optimized", workspace_path)
-optim_options$ranseed <- 1230
+optim_options$ranseed <- 1234
 estim_param(
   obs_list = obs_list,
   crit_function = likelihood_log_ciidn,

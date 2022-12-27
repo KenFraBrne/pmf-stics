@@ -32,7 +32,7 @@ model_options <- stics_wrapper_options(
 
 # observations
 sit_name <- c("Agrolaguna", "Belje", "Blato", "Kutjevo", "Porec", "Zadar")
-var_name <- c("ilevs", "iflos", "ilaxs", "irecs", "H2Orec_percent")
+var_name <- c("ilevs", "iflos", "ilaxs", "H2Orec_percent")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
 obs_list$Kutjevo <- obs_list$Kutjevo[9:23,]
@@ -52,8 +52,6 @@ param_info <- list(
     q10 = 1,
     idebdorm = 150,
     jvc = 80,
-    dureefruit = 1000,
-    stdrpnou = 70,
     stdrpdes = 80,
     deshydbase = 0.001,
     h2ograinmax = 0.5
@@ -71,8 +69,6 @@ param_info <- list(
     q10 = 3,
     idebdorm = 250,
     jvc = 120,
-    dureefruit = 1600,
-    stdrpnou = 110,
     stdrpdes = 110,
     deshydbase = 0.002,
     h2ograinmax = 1.0
@@ -82,7 +78,7 @@ param_info <- list(
 # optimization
 optim_options <- list()
 optim_options$iterations <- 10000
-optim_options$startValue <- 3
+optim_options$startValue <- 1
 optim_options$out_dir <- file.path(pwd, "optimized", workspace_path)
 optim_options$ranseed <- 1234
 estim_param(
