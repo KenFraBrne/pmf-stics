@@ -54,7 +54,7 @@ param_info <- list(
     jvc = 80,
     stdrpdes = 80,
     deshydbase = 0.001,
-    h2ograinmax = 0.5
+    h2ograinmax = 0.70
   ),
   ub = c(
     tdmin = 15,
@@ -71,22 +71,25 @@ param_info <- list(
     jvc = 120,
     stdrpdes = 110,
     deshydbase = 0.002,
-    h2ograinmax = 1.0
+    h2ograinmax = 0.85
   )
 )
 
 # optimization
 optim_options <- list()
-optim_options$iterations <- 30000
-optim_options$startValue <- 3
+optim_options$iterations <- 100000
+optim_options$startValue <- 1
+optim_options$nrChains <- 10
 optim_options$out_dir <- file.path(pwd, "optimized", workspace_path)
-optim_options$ranseed <- 1230
-estim_param(
+optim_options$method <- 'AM'
+optim_options$optimize <- F
+optim_results <- estim_param(
   obs_list = obs_list,
   crit_function = likelihood_log_ciidn,
   model_function = stics_wrapper,
   model_options = model_options,
   optim_options = optim_options,
-  optim_method = "BayesianTools.dreamzs",
+  optim_method = "dreamzs",
   param_info = param_info,
 )
+summary(optim_results$out)
