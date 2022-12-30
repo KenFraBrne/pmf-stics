@@ -1,0 +1,8 @@
+#$ -cwd
+#$ -o output/
+#$ -e output/
+#$ -m bae
+#$ -M mkvakic@srce.hr
+#$ -pe *mpisingle 6
+
+singularity exec ../singularity/stics-image.sif Rscript optimize_merlot_twalk.R
