@@ -8,7 +8,6 @@ library("SticsOnR")
 library("SticsRFiles")
 library("CroptimizR")
 library("CroPlotR")
-library(BayesianTools)
 
 # paths
 pwd <- Sys.getenv("PWD")
@@ -36,8 +35,6 @@ sit_name <- c("Daruvar", "Ilok", "Kutjevo", "Krizevci")
 var_name <- c("ilevs", "iflos", "ilaxs", "H2Orec_percent")
 obs_list <- get_obs(file.path(javastics_path, workspace_path), usm = sit_name)
 obs_list <- filter_obs(obs_list, var=var_name, include=TRUE)
-
-obs_list$Daruvar <- obs_list$Daruvar[5,]
 
 # parameters
 param_info <- list(
@@ -80,11 +77,9 @@ param_info <- list(
 # optimization
 optim_options <- list()
 optim_options$iterations <- 100000
-optim_options$startValue <- 1
-optim_options$nrChains <- 10
+optim_options$startValue <- 5
 optim_options$out_dir <- file.path(pwd, "optimized", workspace_path)
-optim_options$method <- 'AM'
-optim_options$optimize <- F
+optim_options$method <- 'DEzs'
 optim_results <- estim_param(
   obs_list = obs_list,
   crit_function = likelihood_log_ciidn,

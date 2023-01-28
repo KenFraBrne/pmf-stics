@@ -78,11 +78,9 @@ param_info <- list(
 # optimization
 optim_options <- list()
 optim_options$iterations <- 100000
-optim_options$startValue <- 1
-optim_options$nrChains <- 10
+optim_options$startValue <- 5
 optim_options$out_dir <- file.path(pwd, "optimized", workspace_path)
-optim_options$method <- 'AM'
-optim_options$optimize <- F
+optim_options$method <- 'DEzs'
 optim_results <- estim_param(
   obs_list = obs_list,
   crit_function = likelihood_log_ciidn,
