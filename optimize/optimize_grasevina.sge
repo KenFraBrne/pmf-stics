@@ -2,7 +2,8 @@
 #$ -o output/
 #$ -e output/
 #$ -m bae
-#$ -M mkvakic@srce.hr
+#$ -M mkvakic@srce.hr,markokvakic@gmail.com
 #$ -pe *mpisingle 4
 
+rm -f ../simulate/grasevina/*/mod_rapport.sti
 singularity exec ../singularity/stics-image.sif Rscript optimize_grasevina.R

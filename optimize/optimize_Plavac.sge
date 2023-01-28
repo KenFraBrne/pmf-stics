@@ -2,7 +2,8 @@
 #$ -o output/
 #$ -e output/
 #$ -m bae
-#$ -M mkvakic@srce.hr
+#$ -M mkvakic@srce.hr,markokvakic@gmail.com
 #$ -pe *mpisingle 3
 
+rm -f ../simulate/Plavac/*/mod_rapport.sti
 singularity exec ../singularity/stics-image.sif Rscript optimize_Plavac.R

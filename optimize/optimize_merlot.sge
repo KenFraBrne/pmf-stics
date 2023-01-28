@@ -2,7 +2,8 @@
 #$ -o output/
 #$ -e output/
 #$ -m bae
-#$ -M mkvakic@srce.hr
+#$ -M mkvakic@srce.hr,markokvakic@gmail.com
 #$ -pe *mpisingle 6
 
+rm -f ../simulate/merlot/*/mod_rapport.sti
 singularity exec ../singularity/stics-image.sif Rscript optimize_merlot.R
