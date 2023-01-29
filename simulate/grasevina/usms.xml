@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>                                              
 <usms>                                                                                              
+
     <usm nom="Daruvar">
         <datedebut>345</datedebut>
         <datefin>730</datefin>
@@ -17,6 +18,179 @@
             <flai>foo</flai>
         </plante>
     </usm>
+
+    <usm nom="Daruvar_train_0">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Daruvar_train_1">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Daruvar_train_2">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Daruvar_train_3">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Daruvar_train_4">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+
+    <usm nom="Daruvar_test_0">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Daruvar_test_1">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Daruvar_test_2">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Daruvar_test_3">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Daruvar_test_4">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Daruvar_sta.xml</fstation>
+        <fclim1>Daruvar.2000</fclim1>
+        <fclim2>Daruvar.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+
     <usm nom="Ilok">
         <datedebut>345</datedebut>
         <datefin>730</datefin>
@@ -34,6 +208,179 @@
             <flai>foo</flai>
         </plante>
     </usm>
+
+    <usm nom="Ilok_train_0">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok_train_1">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok_train_2">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok_train_3">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok_train_4">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+
+    <usm nom="Ilok_test_0">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok_test_1">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok_test_2">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok_test_3">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Ilok_test_4">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Ilok_sta.xml</fstation>
+        <fclim1>Ilok.1999</fclim1>
+        <fclim2>Ilok.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+
     <usm nom="Krizevci">
         <datedebut>345</datedebut>
         <datefin>730</datefin>
@@ -51,6 +398,179 @@
             <flai>foo</flai>
         </plante>
     </usm>
+
+    <usm nom="Krizevci_train_0">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Krizevci_train_1">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Krizevci_train_2">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Krizevci_train_3">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Krizevci_train_4">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+
+    <usm nom="Krizevci_test_0">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Krizevci_test_1">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Krizevci_test_2">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Krizevci_test_3">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Krizevci_test_4">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Krizevci_sta.xml</fstation>
+        <fclim1>Krizevci.2000</fclim1>
+        <fclim2>Krizevci.2018</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+
     <usm nom="Kutjevo">
         <datedebut>345</datedebut>
         <datefin>730</datefin>
@@ -68,4 +588,177 @@
             <flai>foo</flai>
         </plante>
     </usm>
+
+    <usm nom="Kutjevo_train_0">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Kutjevo_train_1">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Kutjevo_train_2">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Kutjevo_train_3">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Kutjevo_train_4">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+
+    <usm nom="Kutjevo_test_0">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Kutjevo_test_1">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Kutjevo_test_2">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Kutjevo_test_3">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Kutjevo_test_4">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Kutjevo_sta.xml</fstation>
+        <fclim1>Kutjevo.2009</fclim1>
+        <fclim2>Kutjevo.2020</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+
 </usms>

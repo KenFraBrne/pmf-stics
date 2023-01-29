@@ -6,6 +6,7 @@ import unidecode
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from sklearn.model_selection import KFold
 
 def generate_obs(file):
 
@@ -52,7 +53,7 @@ def generate_obs(file):
         WC = -0.82*Br+94.40
         df['H2Orec_percent'] = WC
 
-    # dropna
+    # drop NaN rows
     ind = df.irecs.isna()
     df = df[~ind]
 
@@ -85,12 +86,16 @@ def generate_obs(file):
             df[column] = df[column].astype(int)
 
     # print
-    city, usm = re.findall('[a-zA-Z]{1,}_[a-zA-Zš]{1,}_TOT', file)[0][:-4].split('_')
-    usm = unidecode.unidecode(usm)
-    workspace = 'simulate/%s' % usm
-    os.makedirs(workspace, exist_ok=True)
-    path = workspace + '/%s.obs' % city
-    df.to_csv(path, sep=';', index=False)
+    kfolds = KFold().split(df)
+    for split, (train, test) in enumerate(kfolds):
+        city, usm = re.findall('[a-zA-Z]{1,}_[a-zA-Zš]{1,}_TOT', file)[0][:-4].split('_')
+        usm = unidecode.unidecode(usm)
+        workspace = 'simulate/%s' % usm
+        os.makedirs(workspace, exist_ok=True)
+        path_train = workspace + '/%s_train_%d.obs' % (city, split)
+        path_test = workspace + '/%s_test_%d.obs' % (city, split)
+        df.iloc[train].to_csv(path_train, sep=';', index=False)
+        df.iloc[test].to_csv(path_test, sep=';', index=False)
 
 def main():
     # files
