@@ -46,17 +46,17 @@ def generate_climate(file):
     years = df_stics.iloc[:,1]
     paths = glob.glob('simulate/*/%s.obs' % city)
     for path in paths:
-        for year in years:
+        for year in years.unique():
             ind = years == year
             file = '/'.join(path.split('/')[:-1]) + '/%s.%i' % ( city, year )
+            print(file)
             df_stics[ind].to_csv(file, sep=' ', header=False, index=False)
 
 if __name__ == '__main__':
 
     # files
-    path = 'data/climate/'
-    files = os.listdir(path)
-    files = [ path + file for file in files ]
+    paths = 'data/climate/*_TOT.csv'
+    files = glob.glob(paths)
     files.sort()
 
     # generate
