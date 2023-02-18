@@ -23,8 +23,10 @@ def generate_climate(file):
         columns = range(13),
     )
 
-    # city
-    city = re.findall('\/\D{1,10}_TOT', file)[0][1:-4]
+    # city, model, scenario
+    city = re.findall('\/\D{1,10}_[0-9]{4}', file)[0][1:-5]
+    model = re.findall('\d{4}_\d{4}.*csv', file)[0][0:-4]
+    scenario = file.split('/')[3]
 
     # fill columns
     df_stics[0] = [ '%s_%i' % (city, year) for year in df.Year ]
@@ -41,24 +43,26 @@ def generate_climate(file):
     df_stics[11] = 10*e0((df.Tmin+df.Tmax)/2)*df.RH/100
     df_stics[12] = 320 + (420-320)*(df.Year-1960)/(2020-1960)
 
-
     # print per year
     years = df_stics.iloc[:,1]
-    paths = glob.glob('simulate/*/%s.obs' % city)
-    for path in paths:
-        for year in years.unique():
-            ind = years == year
-            file = '/'.join(path.split('/')[:-1]) + '/%s.%i' % ( city, year )
-            print(file)
-            df_stics[ind].to_csv(file, sep=' ', header=False, index=False)
+    observations = glob.glob('simulate/*/%s.obs' % city)
+    for observation in observations:
+        if city in observation:
+            for year in years.unique():
+                file = os.path.dirname(observation) + '/%s_%s_%s.%i' % ( city, model, scenario, year )
+                print(file)
+                df_stics[ years == year ].to_csv(file, sep=' ', header=False, index=False)
 
-if __name__ == '__main__':
+def main():
 
     # files
-    paths = 'data/climate/*_TOT.csv'
-    files = glob.glob(paths)
+    path = 'data/climate/Klimatski_modeli_dio1/*/*.csv'
+    files = glob.glob(path)
     files.sort()
 
     # generate
     for file in files:
         generate_climate(file)
+
+if __name__ == '__main__':
+    main()

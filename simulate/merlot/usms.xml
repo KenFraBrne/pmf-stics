@@ -19,351 +19,7 @@
     </plante>
   </usm>
 
-  <usm nom="Agrolaguna_train_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Agrolaguna_train_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Agrolaguna_train_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Agrolaguna_train_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Agrolaguna_train_4">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Agrolaguna_test_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Agrolaguna_test_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Agrolaguna_test_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Agrolaguna_test_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Agrolaguna_test_4">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Agrolaguna.2009</fclim1>
-    <fclim2>Agrolaguna.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
   <usm nom="Belje">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Belje_train_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Belje_train_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Belje_train_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Belje_train_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Belje_train_4">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Belje_test_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Belje_test_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Belje_test_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Belje_test_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Osijek_sta.xml</fstation>
-    <fclim1>Belje.2005</fclim1>
-    <fclim2>Belje.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Belje_test_4">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
@@ -399,351 +55,7 @@
     </plante>
   </usm>
 
-  <usm nom="Blato_train_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_train_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_train_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_train_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_train_4">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Blato_test_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_test_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_test_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_test_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_test_4">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato.2006</fclim1>
-    <fclim2>Blato.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
   <usm nom="Kutjevo">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Kutjevo_train_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Kutjevo_train_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Kutjevo_train_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Kutjevo_train_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Kutjevo_train_4">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Kutjevo_test_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Kutjevo_test_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Kutjevo_test_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Kutjevo_test_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Kutjevo_sta.xml</fstation>
-    <fclim1>Kutjevo.2003</fclim1>
-    <fclim2>Kutjevo.2018</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Kutjevo_test_4">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
@@ -779,178 +91,6 @@
     </plante>
   </usm>
 
-  <usm nom="Porec_train_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Porec_train_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Porec_train_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Porec_train_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Porec_train_4">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Porec_test_0">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Porec_test_1">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Porec_test_2">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Porec_test_3">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Porec_test_4">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Porec_sta.xml</fstation>
-    <fclim1>Porec.2007</fclim1>
-    <fclim2>Porec.2020</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
   <usm nom="Zadar">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
@@ -969,15 +109,423 @@
     </plante>
   </usm>
 
+  <usm nom="Agrolaguna_1971_2000_CLMcom_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+    <fclim2>Agrolaguna_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_1971_2000_CLMcom_ICHEC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+    <fclim2>Agrolaguna_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_1971_2000_CLMcom_MOHC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+    <fclim2>Agrolaguna_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_1971_2000_CLMcom_MPI_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+    <fclim2>Agrolaguna_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_1971_2000_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_1971_2000_CNRM_Historijski.1971</fclim1>
+    <fclim2>Agrolaguna_1971_2000_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2071_2100_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Agrolaguna_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Agrolaguna_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Agrolaguna_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Agrolaguna_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
 
-  <usm nom="Zadar_train_0">
+  <usm nom="Belje_1971_2000_CLMcom_CNRM_Historijski">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+    <fclim2>Belje_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -987,14 +535,14 @@
       <flai>foo</flai>
     </plante>
   </usm>
-  <usm nom="Zadar_train_1">
+  <usm nom="Belje_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Belje_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -1004,14 +552,14 @@
       <flai>foo</flai>
     </plante>
   </usm>
-  <usm nom="Zadar_train_2">
+  <usm nom="Belje_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Belje_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -1021,14 +569,14 @@
       <flai>foo</flai>
     </plante>
   </usm>
-  <usm nom="Zadar_train_3">
+  <usm nom="Belje_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Belje_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -1038,14 +586,354 @@
       <flai>foo</flai>
     </plante>
   </usm>
-  <usm nom="Zadar_train_4">
+  <usm nom="Belje_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Belje_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_1971_2000_CLMcom_ICHEC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+    <fclim2>Belje_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Belje_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Belje_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Belje_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Belje_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_1971_2000_CLMcom_MOHC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+    <fclim2>Belje_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Belje_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Belje_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Belje_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Belje_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_1971_2000_CLMcom_MPI_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+    <fclim2>Belje_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Belje_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Belje_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Belje_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Belje_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_1971_2000_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_1971_2000_CNRM_Historijski.1971</fclim1>
+    <fclim2>Belje_1971_2000_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2041_2070_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Belje_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2071_2100_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Belje_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Belje_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Belje_2071_2100_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Osijek_sta.xml</fstation>
+    <fclim1>Belje_2071_2100_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Belje_2071_2100_CNRM_Projekcije_rcp85.2100</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -1056,14 +944,14 @@
     </plante>
   </usm>
 
-  <usm nom="Zadar_test_0">
+  <usm nom="Blato_1971_2000_CLMcom_CNRM_Historijski">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+    <fclim2>Blato_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -1073,14 +961,14 @@
       <flai>foo</flai>
     </plante>
   </usm>
-  <usm nom="Zadar_test_1">
+  <usm nom="Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -1090,14 +978,14 @@
       <flai>foo</flai>
     </plante>
   </usm>
-  <usm nom="Zadar_test_2">
+  <usm nom="Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -1107,14 +995,14 @@
       <flai>foo</flai>
     </plante>
   </usm>
-  <usm nom="Zadar_test_3">
+  <usm nom="Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
-    <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
@@ -1124,14 +1012,1632 @@
       <flai>foo</flai>
     </plante>
   </usm>
-  <usm nom="Zadar_test_4">
+  <usm nom="Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_1971_2000_CLMcom_ICHEC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+    <fclim2>Blato_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Blato_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Blato_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Blato_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Blato_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_1971_2000_CLMcom_MOHC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+    <fclim2>Blato_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Blato_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Blato_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Blato_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Blato_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_1971_2000_CLMcom_MPI_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+    <fclim2>Blato_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Blato_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Blato_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Blato_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Blato_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_1971_2000_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_1971_2000_CNRM_Historijski.1971</fclim1>
+    <fclim2>Blato_1971_2000_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2041_2070_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Blato_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2071_2100_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Blato_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Blato_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Blato_2071_2100_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Korcula_sta.xml</fstation>
+    <fclim1>Blato_2071_2100_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Blato_2071_2100_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+
+  <usm nom="Kutjevo_1971_2000_CLMcom_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+    <fclim2>Kutjevo_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_1971_2000_CLMcom_ICHEC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+    <fclim2>Kutjevo_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_1971_2000_CLMcom_MOHC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+    <fclim2>Kutjevo_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_1971_2000_CLMcom_MPI_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+    <fclim2>Kutjevo_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_1971_2000_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_1971_2000_CNRM_Historijski.1971</fclim1>
+    <fclim2>Kutjevo_1971_2000_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Kutjevo_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Kutjevo_2071_2100_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Kutjevo_sta.xml</fstation>
+    <fclim1>Kutjevo_2071_2100_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Kutjevo_2071_2100_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+
+  <usm nom="Porec_1971_2000_CLMcom_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+    <fclim2>Porec_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Porec_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Porec_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Porec_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Porec_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_1971_2000_CLMcom_ICHEC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+    <fclim2>Porec_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Porec_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Porec_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Porec_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Porec_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_1971_2000_CLMcom_MOHC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+    <fclim2>Porec_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Porec_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Porec_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Porec_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Porec_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_1971_2000_CLMcom_MPI_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+    <fclim2>Porec_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Porec_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Porec_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Porec_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Porec_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_1971_2000_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_1971_2000_CNRM_Historijski.1971</fclim1>
+    <fclim2>Porec_1971_2000_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Porec_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Porec_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Porec_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Porec_2071_2100_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Porec_sta.xml</fstation>
+    <fclim1>Porec_2071_2100_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Porec_2071_2100_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+
+  <usm nom="Zadar_1971_2000_CLMcom_CNRM_Historijski">
     <datedebut>345</datedebut>
     <datefin>730</datefin>
     <finit>vigne_ini.xml</finit>
     <nomsol>solvigne</nomsol>
     <fstation>Zadar_sta.xml</fstation>
-    <fclim1>Zadar.2006</fclim1>
-    <fclim2>Zadar.2020</fclim2>
+    <fclim1>Zadar_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+    <fclim2>Zadar_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Zadar_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Zadar_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Zadar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Zadar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_1971_2000_CLMcom_ICHEC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+    <fclim2>Zadar_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Zadar_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Zadar_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Zadar_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Zadar_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_1971_2000_CLMcom_MOHC_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+    <fclim2>Zadar_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Zadar_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Zadar_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Zadar_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Zadar_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_1971_2000_CLMcom_MPI_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+    <fclim2>Zadar_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Zadar_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Zadar_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Zadar_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Zadar_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_1971_2000_CNRM_Historijski">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_1971_2000_CNRM_Historijski.1971</fclim1>
+    <fclim2>Zadar_1971_2000_CNRM_Historijski.2000</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+    <fclim2>Zadar_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_CNRM_Projekcije_rcp45">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+    <fclim2>Zadar_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+    <fclim2>Zadar_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+    <culturean>2</culturean>
+    <nbplantes>1</nbplantes>
+    <codesimul>0</codesimul>
+    <plante dominance="1">
+      <fplt>vine_MERLOT_plt.xml</fplt>
+      <ftec>vigne_tec.xml</ftec>
+      <flai>foo</flai>
+    </plante>
+  </usm>
+  <usm nom="Zadar_2071_2100_CNRM_Projekcije_rcp85">
+    <datedebut>345</datedebut>
+    <datefin>730</datefin>
+    <finit>vigne_ini.xml</finit>
+    <nomsol>solvigne</nomsol>
+    <fstation>Zadar_sta.xml</fstation>
+    <fclim1>Zadar_2071_2100_CNRM_Projekcije_rcp85.2071</fclim1>
+    <fclim2>Zadar_2071_2100_CNRM_Projekcije_rcp85.2100</fclim2>
     <culturean>2</culturean>
     <nbplantes>1</nbplantes>
     <codesimul>0</codesimul>
