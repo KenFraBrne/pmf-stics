@@ -9,7 +9,7 @@ library("CroPlotR")
 # paths
 pwd <- Sys.getenv("PWD")
 javastics_path <- paste(pwd, '/../simulate', sep="")
-workspace_path <- "grasevina"
+workspace_path <- "Plavac"
 
 # usms
 usms <- c("Blato_1971_2000_CLMcom_CNRM_Historijski",
@@ -45,7 +45,7 @@ model_options <- stics_wrapper_options(
 )
 
 # load optimized values
-load("optimized/grasevina/optim_results.Rdata")
+load("optimized/Plavac/optim_results.Rdata")
 
 # simulate
 var_name <- c("ilevs", "iflos", "ilaxs", "irecs", "H2Orec_percent")

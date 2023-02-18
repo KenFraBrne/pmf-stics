@@ -3,7 +3,7 @@
 #$ -e output/
 #$ -m bae
 #$ -M mkvakic@srce.hr,markokvakic@gmail.com
-#$ -pe *mpisingle 12
+#$ -pe test-int 20
 
 rm -f ../simulate/grasevina/*_*/mod_rapport.sti
 singularity exec ../singularity/stics-image.sif Rscript simulate_grasevina.R
