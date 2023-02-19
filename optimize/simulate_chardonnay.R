@@ -43,6 +43,7 @@ gen_usms_xml2txt(javastics_path,
                  workspace = workspace_path,
                  usm = usms,
                  out_dir = workspace_path,
+                 check = TRUE,
                  verbose = TRUE)
 
 # model
@@ -59,7 +60,9 @@ load("optimized/chardonnay/optim_results.Rdata")
 
 # simulate
 var_name <- c("ilevs", "iflos", "ilaxs", "irecs", "H2Orec_percent")
-stics_wrapper(param_values = res$MAP,
-              model_options = model_options,
-              situation = usms,
-              var = var_name)
+for ( row in 99000:100000 ){
+  stics_wrapper(param_values = res$MAP,
+                model_options = model_options,
+                situation = usms,
+                var = var_name)
+}
