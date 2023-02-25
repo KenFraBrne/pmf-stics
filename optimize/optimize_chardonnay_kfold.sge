@@ -1,8 +1,0 @@
-#$ -cwd
-#$ -o output/
-#$ -e output/
-#$ -m bae
-#$ -M mkvakic@srce.hr
-#$ -pe *mpisingle 5
-
-singularity exec ../singularity/stics-image.sif Rscript optimize_chardonnay_kfold.R

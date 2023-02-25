@@ -56,7 +56,7 @@ def generate_climate(file):
 def main():
 
     # files
-    path = 'data/climate/Klimatski_modeli_dio1/*/*.csv'
+    path = 'data/climate/Klimatski_modeli_dio?/*/*.csv'
     files = glob.glob(path)
     files.sort()
 

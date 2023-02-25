@@ -1,8 +1,0 @@
-#$ -cwd
-#$ -o output/
-#$ -e output/
-#$ -m bae
-#$ -M mkvakic@srce.hr
-#$ -pe *mpisingle 4
-
-singularity exec ../singularity/stics-image.sif Rscript optimize_grasevina_kfold.R
