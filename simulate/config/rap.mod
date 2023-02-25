@@ -7,6 +7,8 @@ ilevs
 iflos
 ilaxs
 irecs
+imats
+inous
 sucre
 sucre_percent
 mafruit

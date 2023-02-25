@@ -55,262 +55,2555 @@
     </plante>
   </usm>
 
-  <usm nom="Blato_1971_2000_CLMcom_CNRM_Historijski">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
-    <fclim2>Blato_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
-    <fclim2>Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
-    <fclim2>Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
-    <fclim2>Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Korcula_sta.xml</fstation>
-    <fclim1>Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
-    <fclim2>Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Hvar_1971_2000_CLMcom_CNRM_Historijski">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Hvar_sta.xml</fstation>
-    <fclim1>Hvar_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
-    <fclim2>Hvar_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Hvar_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Hvar_sta.xml</fstation>
-    <fclim1>Hvar_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
-    <fclim2>Hvar_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Hvar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Hvar_sta.xml</fstation>
-    <fclim1>Hvar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
-    <fclim2>Hvar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Hvar_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Hvar_sta.xml</fstation>
-    <fclim1>Hvar_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
-    <fclim2>Hvar_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Hvar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Hvar_sta.xml</fstation>
-    <fclim1>Hvar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
-    <fclim2>Hvar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-
-  <usm nom="Lastovo_1971_2000_CLMcom_CNRM_Historijski">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Lastovo_sta.xml</fstation>
-    <fclim1>Lastovo_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
-    <fclim2>Lastovo_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Lastovo_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Lastovo_sta.xml</fstation>
-    <fclim1>Lastovo_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
-    <fclim2>Lastovo_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Lastovo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Lastovo_sta.xml</fstation>
-    <fclim1>Lastovo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
-    <fclim2>Lastovo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Lastovo_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Lastovo_sta.xml</fstation>
-    <fclim1>Lastovo_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
-    <fclim2>Lastovo_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
-  <usm nom="Lastovo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
-    <datedebut>345</datedebut>
-    <datefin>730</datefin>
-    <finit>vigne_ini.xml</finit>
-    <nomsol>solvigne</nomsol>
-    <fstation>Lastovo_sta.xml</fstation>
-    <fclim1>Lastovo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
-    <fclim2>Lastovo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
-    <culturean>2</culturean>
-    <nbplantes>1</nbplantes>
-    <codesimul>0</codesimul>
-    <plante dominance="1">
-      <fplt>vine_MERLOT_plt.xml</fplt>
-      <ftec>vigne_tec.xml</ftec>
-      <flai>foo</flai>
-    </plante>
-  </usm>
+    <usm nom="Blato_1971_2000_CLMcom_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_CLMcom_ICHEC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_CLMcom_MOHC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_CLMcom_MPI_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_CNRM_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_SMHI_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_SMHI_CNRM_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_SMHI_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_SMHI_ICHEC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_SMHI_ICHEC_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_SMHI_ICHEC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_SMHI_IPSL_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_SMHI_IPSL_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_SMHI_IPSL_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_SMHI_MOHC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_SMHI_MOHC_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_SMHI_MOHC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_1971_2000_SMHI_MPI_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_1971_2000_SMHI_MPI_Historijski.1971</fclim1>
+        <fclim2>Blato_1971_2000_SMHI_MPI_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Blato_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_SMHI_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_SMHI_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_SMHI_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_SMHI_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_SMHI_ICHEC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_SMHI_ICHEC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_SMHI_IPSL_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_SMHI_IPSL_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_SMHI_IPSL_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_SMHI_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_SMHI_MOHC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_SMHI_MOHC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2041_2070_SMHI_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2041_2070_SMHI_MPI_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Blato_2041_2070_SMHI_MPI_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Blato_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_SMHI_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_SMHI_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_SMHI_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_SMHI_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_SMHI_ICHEC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_SMHI_ICHEC_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_SMHI_IPSL_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_SMHI_IPSL_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_SMHI_IPSL_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_SMHI_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_SMHI_MOHC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_SMHI_MOHC_Projekcije_rcp45.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Blato_2071_2100_SMHI_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Blato_sta.xml</fstation>
+        <fclim1>Blato_2071_2100_SMHI_MPI_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Blato_2071_2100_SMHI_MPI_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_CLMcom_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_CLMcom_ICHEC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_CLMcom_MOHC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_CLMcom_MPI_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_CNRM_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_SMHI_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_SMHI_CNRM_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_SMHI_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_SMHI_ICHEC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_SMHI_ICHEC_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_SMHI_ICHEC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_SMHI_IPSL_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_SMHI_IPSL_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_SMHI_IPSL_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_SMHI_MOHC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_SMHI_MOHC_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_SMHI_MOHC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_1971_2000_SMHI_MPI_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_1971_2000_SMHI_MPI_Historijski.1971</fclim1>
+        <fclim2>Hvar_1971_2000_SMHI_MPI_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Hvar_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_SMHI_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_SMHI_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_SMHI_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_SMHI_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_SMHI_ICHEC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_SMHI_ICHEC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_SMHI_IPSL_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_SMHI_IPSL_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_SMHI_IPSL_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_SMHI_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_SMHI_MOHC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_SMHI_MOHC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2041_2070_SMHI_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2041_2070_SMHI_MPI_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Hvar_2041_2070_SMHI_MPI_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Hvar_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_SMHI_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_SMHI_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_SMHI_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_SMHI_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_SMHI_ICHEC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_SMHI_ICHEC_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_SMHI_IPSL_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_SMHI_IPSL_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_SMHI_IPSL_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_SMHI_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_SMHI_MOHC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_SMHI_MOHC_Projekcije_rcp45.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Hvar_2071_2100_SMHI_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Hvar_sta.xml</fstation>
+        <fclim1>Hvar_2071_2100_SMHI_MPI_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Hvar_2071_2100_SMHI_MPI_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_CLMcom_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_CLMcom_CNRM_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_CLMcom_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_CLMcom_ICHEC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_CLMcom_ICHEC_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_CLMcom_ICHEC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_CLMcom_MOHC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_CLMcom_MOHC_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_CLMcom_MOHC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_CLMcom_MPI_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_CLMcom_MPI_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_CLMcom_MPI_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_CNRM_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_SMHI_CNRM_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_SMHI_CNRM_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_SMHI_CNRM_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_SMHI_ICHEC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_SMHI_ICHEC_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_SMHI_ICHEC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_SMHI_IPSL_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_SMHI_IPSL_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_SMHI_IPSL_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_SMHI_MOHC_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_SMHI_MOHC_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_SMHI_MOHC_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_1971_2000_SMHI_MPI_Historijski">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_1971_2000_SMHI_MPI_Historijski.1971</fclim1>
+        <fclim2>Lastovo_1971_2000_SMHI_MPI_Historijski.2000</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_CLMcom_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_CLMcom_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_CLMcom_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_CLMcom_ICHEC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_CLMcom_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_CLMcom_MOHC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_CLMcom_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_CLMcom_MPI_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_CLMcom_MPI_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_CLMcom_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_CLMcom_MOHC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_CLMcom_MPI_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_SMHI_CNRM_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_SMHI_ICHEC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_SMHI_IPSL_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_SMHI_MOHC_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_rcp85_SMHI_MPI_Projekcije_rcp85.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_SMHI_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_SMHI_CNRM_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_SMHI_CNRM_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_SMHI_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_SMHI_ICHEC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_SMHI_ICHEC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_SMHI_IPSL_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_SMHI_IPSL_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_SMHI_IPSL_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_SMHI_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_SMHI_MOHC_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_SMHI_MOHC_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2041_2070_SMHI_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2041_2070_SMHI_MPI_Projekcije_rcp45.2041</fclim1>
+        <fclim2>Lastovo_2041_2070_SMHI_MPI_Projekcije_rcp45.2070</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_CLMcom_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_CLMcom_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_CLMcom_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_CLMcom_ICHEC_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_CLMcom_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_CLMcom_MOHC_Projekcije_rcp45.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_CLMcom_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_CLMcom_MPI_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_CLMcom_MPI_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_CLMcom_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_CLMcom_ICHEC_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_CLMcom_MOHC_Projekcije_rcp85.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_CLMcom_MPI_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_SMHI_CNRM_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_SMHI_ICHEC_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_SMHI_IPSL_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_SMHI_MOHC_Projekcije_rcp85.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_rcp85_SMHI_MPI_Projekcije_rcp85.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_SMHI_CNRM_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_SMHI_CNRM_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_SMHI_CNRM_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_SMHI_ICHEC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_SMHI_ICHEC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_SMHI_ICHEC_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_SMHI_IPSL_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_SMHI_IPSL_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_SMHI_IPSL_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_SMHI_MOHC_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_SMHI_MOHC_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_SMHI_MOHC_Projekcije_rcp45.2099</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
+    <usm nom="Lastovo_2071_2100_SMHI_MPI_Projekcije_rcp45">
+        <datedebut>345</datedebut>
+        <datefin>730</datefin>
+        <finit>vigne_ini.xml</finit>
+        <nomsol>solvigne</nomsol>
+        <fstation>Lastovo_sta.xml</fstation>
+        <fclim1>Lastovo_2071_2100_SMHI_MPI_Projekcije_rcp45.2071</fclim1>
+        <fclim2>Lastovo_2071_2100_SMHI_MPI_Projekcije_rcp45.2100</fclim2>
+        <culturean>2</culturean>
+        <nbplantes>1</nbplantes>
+        <codesimul>0</codesimul>
+        <plante dominance="1">
+            <fplt>vine_MERLOT_plt.xml</fplt>
+            <ftec>vigne_tec.xml</ftec>
+            <flai>foo</flai>
+        </plante>
+    </usm>
 
 </usms>
