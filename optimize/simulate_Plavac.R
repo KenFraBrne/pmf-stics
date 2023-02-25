@@ -16,11 +16,15 @@ usms <- get_usms_list(file.path(javastics_path, workspace_path, "usms.xml"))
 usms <- usms[ sapply("_", grepl, usms) ]
 
 # gen_usms
-gen_usms_xml2txt(javastics_path,
-                 workspace = workspace_path,
-                 usm = usms,
-                 out_dir = workspace_path,
-                 verbose = TRUE)
+for ( usm in usms ){
+  if ( !dir.exists(file.path(javastics_path, workspace_path, usm)) ){
+    gen_usms_xml2txt(javastics_path,
+                     workspace = workspace_path,
+                     usm = usm,
+                     out_dir = workspace_path,
+                     verbose = TRUE)
+  }
+}
 
 # model
 model_options <- stics_wrapper_options(javastics = javastics_path,
