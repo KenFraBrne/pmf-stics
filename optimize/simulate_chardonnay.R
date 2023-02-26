@@ -39,7 +39,7 @@ load("optimized/chardonnay/optim_results.Rdata")
 
 # simulate
 for ( row in 99000:100000 ){
-  stics_wrapper(param_values = res$MAP,
+  stics_wrapper(param_values = res$post_sample[row,],
                 model_options = model_options,
                 situation = usms)
 }
